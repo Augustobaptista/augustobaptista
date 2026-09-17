@@ -50,10 +50,9 @@ Atualmente, estou direcionando minha carreira para **Engenharia de Dados**, apro
 
 ## Estatísticas do GitHub
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=augustobaptista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobaptista&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=augustobaptista&show_icons=true&theme=tokyonight)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobaptista&layout=compact&theme=tokyonight)
 
 ## Entre em contato
 
