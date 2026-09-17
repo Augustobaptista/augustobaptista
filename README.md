@@ -48,12 +48,6 @@ Atualmente, estou direcionando minha carreira para **Engenharia de Dados**, apro
 - Apache Spark e Apache Airflow
 - Computação em nuvem
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=augustobaptista&show_icons=true&theme=tokyonight)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=augustobaptista&layout=compact&theme=tokyonight)
-
 ## Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustobaptistadasilva/)
